@@ -1,0 +1,798 @@
+.shadow1{
+    width:100%;
+    height: 80px;
+    background: white;
+    box-shadow: 0 2px 12px 0 rgba(208,214,226,0.50);}
+.HGRCW{
+    position: absolute;
+    left:150px;
+    top:26px;
+    color: #3484F5;
+    width: 90px;
+    height:28px;
+    font-family: 微软雅黑;
+}
+.shouye{
+    position: absolute;
+    left:679px;
+    top:23px;
+    color: #191919;
+    width:35px;
+    height: 21px;
+    font-family: 微软雅黑;
+}
+.Home{
+    position: absolute;
+    left:682px;
+    top:47px;
+    color: #606264;
+    width:29px;
+    height: 12px;
+    font-size: small;
+    font-family: 黑体;
+}
+.fabu{
+    position: absolute;
+    left:782px;
+    top:23px;
+    color: #191919;
+    width:35px;
+    height: 21px;
+    font-family: 微软雅黑;
+}
+.Publish{
+    position: absolute;
+    left:782px;
+    top:47px;
+    color: #606264;
+    width:36px;
+    height: 12px;
+    font-size: small;
+    font-family: 黑体;
+}
+.huodong{
+    position: absolute;
+    left:887px;
+    top:23px;
+    color: #191919;
+    width:35px;
+    height: 21px;
+    font-family: 微软雅黑;
+}
+.Activity{
+    position: absolute;
+    left:886px;
+    top:47px;
+    color: #606264;
+    width:29px;
+    height: 12px;
+    font-size: small;
+    font-family: 黑体;
+}
+.Group{
+    position: absolute;
+    left:1021px;
+    top:21px;
+    width:28px;
+    height: 28px;
+}
+.IDmangement{
+    position: absolute;
+    left:161px;
+    top:100px;
+    color: black;
+    width:64px;
+    height: 21px;
+    font-family: 黑体;
+}
+.shadow2{
+    position: absolute;
+    left:366px;
+    top:110px;
+    width: 774px;
+    height:42px;
+    background: white;
+    box-shadow: 0 1px 10px 0 rgba(208,214,226,0.63);
+}
+.underline{
+    position: absolute;
+    left:396px;
+    top:152px;
+    background: #005FB3;
+    width: 56px;
+    height:3px;
+}
+.EnterpriseData{
+    position: absolute;
+    left:396px;
+    top:122px;
+    color:royalblue;
+    width:56px;
+    height: 19px;
+    font-size: small;
+    font-family: 黑体;
+}
+.smallfram{
+    position: absolute;
+    left:160px;
+    top:150px;
+    background: #FFFFFF;
+    width:180px;
+    height: 61px;
+    box-shadow: 0 2px 10px 0 #D0D6E2;
+    border-radius: 2px;
+}
+.triangle{
+    position: absolute;
+    left:326px;
+    top:176px;
+    transform: rotate(-360deg);
+    background: #005FB3;
+}
+.ENterpriseData{
+    position: absolute;
+    left:216px;
+    top:171px;
+    color: #005FB3;
+    font-size: 14px;
+    width: 56px;
+    height: 19px;
+    font-family: MicrosoftYaHei;
+}
+.picENterpiseData{
+    position: absolute;
+    left:160px;
+    top:150px;
+}
+.underline2{
+    position: absolute ;
+    left:160px;
+    top:271px;
+    width:180px;
+    height: 1px;
+    background: #EFF0F4;
+}
+.EnterpriseCertification{
+    position: absolute;
+    left:216px;
+    top:232px;
+    color: #4F5362;
+    font-size: 14px;
+    font-family: MicrosoftYaHei;
+}
+.underline3{
+    position: absolute ;
+    left:160px;
+    top:332px;
+    width:180px;
+    height: 1px;
+    background: #EFF0F4;
+}
+.MyMessage{
+    position: absolute ;
+    left:216px;
+    top:293px;
+    color: #4F5362;
+    font-size: 14px;
+    font-family: MicrosoftYaHei;
+}
+.bigfram{
+    position:absolute;
+    left:366px;
+    top:167px;
+    width:774px;
+    height:2406px;
+    background: #FFFFFF;
+    box-shadow: 0 1px 10px 0 rgba(208,214,226,0.63);
+}
+.UploadLogo{
+    position:absolute;
+    left:387px;
+    top:247px;
+    color: #4F5362;
+    font-size: 18px;
+    font-family: MicrosoftYaHei;
+    letter-spacing: 0.32px;
+}
+.Camera{
+    position: absolute;
+    left:509px;
+    top:187px;
+    width:138px;
+    height:138px;
+    background: #575859;
+    border-radius: 5px;
+}
+.PCLOGO{
+    position: absolute;
+    left:675px;
+    top:283px;
+    width: 96px;
+    height:42px;
+    background: #007AE6;
+    border-radius: 5px;
+}
+.Chooselogo{
+    position: absolute;
+    left:696px;
+    top:296px;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: MicrosoftYaHei;
+    letter-spacing: 0.28px;
+}
+.Explain{
+    position: absolute;
+    left:509px;
+    top:331px;
+    font-size: 12px;
+    color: #A8ACB9;
+    letter-spacing: 0.28px;
+    font-family: MicrosoftYaHei;
+}
+.ComName{
+    position:absolute;
+    left:388px;
+    top:406px;
+    font-size: 18px;
+    color: #4F5362;
+    font-family: MicrosoftYaHei;
+    letter-spacing: 0.32px;
+}
+.ComDatails{
+    position: absolute;
+    left:514px;
+    top:406px;
+    ont-family: MicrosoftYaHei;
+    font-size: 14px;
+    color: #4F5362;
+    line-height: 21px;
+}
+.Explain2{
+    position:absolute ;
+    left:494px;
+    top:445px;
+    font-family: MicrosoftYaHei;
+    font-size: 12px;
+    color: #A8ACB9;
+    letter-spacing: 0.28px;
+}
+.FillB{
+    position: absolute;
+    left:494px;
+    top:397px;
+    background: #FFFFFF;
+    width:400px;
+    height:42px;
+    border: 3px solid #007AE6;
+    box-shadow: 0 5px 11px 1px #D0D6E2;
+    border-radius: 5px;
+}
+.UpBuLi{
+    position: absolute;
+    left:386px;
+    top:568px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.LiCamera{
+    position: absolute;
+    left:529px;
+    top:511px;
+    width: 138px;
+    height:138px;
+    background: #575859;
+    border-radius: 5px;
+}
+.Blicense{
+    position: absolute;
+    left:706px;
+    top:620px;
+    width:74px;
+    height:16px;
+    font-family: MicrosoftYaHei;
+    font-size: 12px;
+    color: #FFFFFF;
+    letter-spacing: 0.28px;
+}
+.LiDatil{
+    position: absolute;
+    left:529px;
+    top:655px;
+    width:371px;
+    height: 18px;
+    font-family: MicrosoftYaHei;
+    font-size: 12px;
+    color: #A8ACB9;
+    letter-spacing: 0.28px;
+}
+.ComNature{
+    position: absolute;
+    left:387px;
+    top:730px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.Right1{
+    position: absolute;
+    left:802px;
+    top:730px;
+    width:22px;
+    height: 22px;
+}
+.CNC{
+    position: absolute;
+    left:493px;
+    top:722px;
+    width:280px;
+    height:42px;
+    border:1px solid #007AE6;
+    border-radius: 5px;
+}
+.ScaleOfCompany{
+    position: absolute;
+    left:386px;
+    top:822px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.Right2{
+    position: absolute;
+    left:803px;
+    top:824px;
+    width:22px;
+    height: 22px;
+}
+.SOCC{
+    position: absolute;
+    left:494px;
+    top:814px;
+    width:281px;
+    height:42px;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.ComInd{
+    position: absolute;
+    left:387px;
+    top:912px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spa3ing: 0.32px;
+}
+.Right3{
+    position: absolute;
+    left:960px;
+    top:915px;
+    width:22px;
+    height: 22px;
+}
+.CIC{
+    position: absolute;
+    left:531px;
+    top:906px;
+    width:400px;
+    height: 42px;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.FoundTime{
+    position: absolute;
+    left:387px;
+    top:1006px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.Right4{
+    position: absolute;
+    left:802px;
+    top:1006px;
+    width:22px;
+    height: 22px;
+}
+.FTC{
+    position: absolute;
+    left:493px;
+    top:998px;
+    width:280px;
+    height: 42px;
+    background: #FFFFFF;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.RegisteredFound{
+    position: absolute;
+    left:386px;
+    top:1098px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.Right5{
+    position: absolute;
+    left:801px;
+    top:1098px;
+    width:22px;
+    height: 22px;
+}
+.RFC{
+    position: absolute;
+    left:493px;
+    top:1089px;
+    width:280px;
+    height:42px;
+    background: #FFFFFF;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.CompantSite{
+    position: absolute;
+    left:386px;
+    top:1190px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.Warning{
+    position: absolute;
+    left:511px;
+    top:1226px;
+    font-family: MicrosoftYaHei;
+    font-size: 10px;
+    color: #FB432A;
+    letter-spacing: 1.11px;
+}
+.WarningPicture{
+    position: absolute;
+    left:495px;
+    top:1227px;
+    width:12px;
+    height:12px;
+}
+.CompanyCity{
+    position: absolute;
+    left:494px;
+    top:1181px;
+    width:236px;
+    height: 42px;
+    background: #EFF0F4;
+    border: 1px solid #FD7753;
+    border-radius: 5px;
+}
+.CityRegion{
+    position: absolute;
+    left:774px;
+    top:1181px;
+    width:236px;
+    height: 42px;
+    background: #EFF0F4;
+    border: 1px solid  #007AE6;
+    border-radius: 5px;
+}
+.Right6{
+    position: absolute;
+    left:1040px;
+    top:1190px;
+    width:22px;
+    height: 22px;
+}
+.DatilPlace{
+    position: absolute;
+    left:493px;
+    top:1259px;
+    width:627px;
+    height: 42px;
+    background: #EFF0F4;
+
+}
+.CompanyProfile{
+    position: absolute;
+    left:386px;
+    top:1428px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.ProfileFrame{
+    position: absolute;
+    left:494px;
+    top:1351px;
+    width: 626px;
+    height: 178px;
+    background: #FFFFFF;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.CompanyContact{
+    position: absolute;
+    left:386px;
+    top:1588px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.Right7{
+    position:absolute;
+    left:812px;
+    top:1588px;
+    width:22px;
+    height:22px;
+}
+.CompanyContactChoose{
+    position: absolute;
+    left:512px;
+    top:1579px;
+    width: 280px;
+    height: 42px;
+    background: #FFFFFF;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.Man{
+    position: absolute;
+    left:970px;
+    top:1588px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.CheckMan{
+    position: absolute;
+    left:932px;
+    top:1590px;
+    background: #007AE6;
+}
+.Woman{
+    position: absolute;
+    left:1057px;
+    top:1588px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.CheckWoman{
+    position: absolute;
+    left:1019px;
+    top:1590px;
+    background: #007AE6;
+}
+.DisplayCompany{
+    position: absolute;
+    left:973px;
+    top:1632px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.CheckDisplayCompany{
+    position: absolute;
+    left:953px;
+    top:1638px;
+    background: #007AE6;
+}
+.WayContactCompany{
+    position: absolute;
+    left:386px;
+    top:1715px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.Right8{
+    position:absolute;
+    left:860px;
+    top:1715px;
+    height:22px;
+    width: 22px;
+}
+.FixPhone{
+    position: absolute;
+    left:532px;
+    top:1716px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #4F5362;
+    line-height: 21px;
+}
+.TextFixPhone{
+    position: absolute;
+    left:610px;
+    top:1706px;
+    width:230px;
+    height: 42px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    line-height: 21px;
+    background: #FFFFFF;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.MobilePhone{
+    position: absolute;
+    left:532px;
+    top:1778px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #4F5362;
+    line-height: 21px;
+}
+.TextMobilePhone{
+    position: absolute;
+    left:610px;
+    top:1778px;
+    width:230px;
+    height: 42px;
+    background: #FFFFFF;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.FixPhone2{
+    position: absolute;
+    left:532px;
+    top:1860px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #4F5362;
+    line-height: 21px;
+}
+.TextFixPhone2{
+    position: absolute;
+    left:610px;
+    top:1849px;
+    width:230px;
+    height: 42px;
+    background: #FFFFFF;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.CompanyWebLink
+{
+    position: absolute;
+    left:386px;
+    top:1941px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #4F5362;
+    letter-spacing: 0.32px;
+}
+.CompanyWebLinkText{
+    position: absolute;
+    left:530px;
+    top:1941px;
+    width:590px;
+    height: 42px;
+    background: #FFFFFF;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+.CompanyShow{
+    position: absolute;
+    left:386px;
+    top:2023px;
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    color: #4F5362;
+    letter-spacing: 0.29px;
+}
+.P1Background{
+    position: absolute;
+    left:528px;
+    top:2023px;
+    width:281px;
+    height: 160px;
+    background: #F5F5F5;
+    border-radius: 5px;
+}
+.P1{
+    position: absolute;
+    left:650px;
+    top:2086px;
+    width:37.3px;
+    height:33.4px;
+}
+.P2Background{
+    position: absolute;
+    left:839px;
+    top:2023px;
+    width:281px;
+    height: 160px;
+    background: #F5F5F5;
+    border-radius: 5px;
+}
+.P2{
+    position: absolute;
+    left:961px;
+    top:2086px;
+    width:37.3px;
+    height:33.4px;
+}
+.P3Background{
+    position: absolute;
+    left:528px;
+    top:2213px;
+    width:281px;
+    height: 160px;
+    background: #F5F5F5;
+    border-radius: 5px;
+}
+.P3 {
+    position: absolute;
+    left: 650px;
+    top: 2276px;
+    width: 37.3px;
+    height: 33.4px;
+}
+.P4Background{
+    position: absolute;
+    left:839px;
+    top:2213px;
+    width:281px;
+    height: 160px;
+    background: #F5F5F5;
+    border-radius: 5px;
+}
+.P4 {
+    position: absolute;
+    left: 961px;
+    top: 2276px;
+    width: 37.3px;
+    height: 33.4px;
+}
+.BackgroundSave{
+    position: absolute;
+    left:596px;
+    top:2453px;
+    width:140px;
+    height:42px;
+    background: #007AE6;
+    border-radius: 5px;
+}
+.Save{
+    position: absolute;
+    left:646px;
+    top:2465px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #FFFFFF;
+    letter-spacing: 1.93px;
+    line-height: 18px;
+}
+.Decline{
+    position: absolute;
+    left:820px;
+    top:2465px;
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    color: #007AE6;
+    letter-spacing: 1.93px;
+    line-height: 18px;
+}
+.DeclineBackground{
+    position:absolute;
+    left:776px;
+    top:2453px;
+    width:140px;
+    height: 42px;
+    border: 1px solid #007AE6;
+    border-radius: 5px;
+}
+
+
+

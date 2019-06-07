@@ -1,0 +1,717 @@
+.navigation{
+    background: #2A41E8;
+    height:54px;
+}
+.navigation_frame{
+    height: 54px;
+    margin: 0px auto;
+}
+.navigation_element{
+    float: left;
+}
+.navigation_element li{
+    float: left;
+    line-height: 54px;
+}
+.navigation_element a{
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 18px;
+}
+.navigation_line{
+    height: 54px;
+    border: 1px solid
+    rgba(255,255,255,0.10);
+}
+.navigation_element li:nth-child(1){margin-left: 35px}
+.navigation_element li:nth-child(2){margin-left: 13px}
+.navigation_element li:nth-child(3){ margin-left: 28px}
+.navigation_element li:nth-child(4){ margin-left: 14px}
+.navigation_element li:nth-child(5){ margin-left: 29px}
+.navigation_element li:nth-child(6){ margin-left: 14px}
+.navigation_element li:nth-child(7){ margin-left: 533px}
+.navigation_element li:nth-child(8){ margin-left: 22px}
+.navigation_element li:nth-child(9){ margin-left: 18px}
+.navigation_element li:nth-child(10){ margin-left: 24px}
+.navigation_element li:nth-child(11){ margin-left: 22px}
+.navigation_element li:nth-child(12){ margin-left: 18px}
+.navigation_element li:nth-child(13){ margin-left: 22px}
+.navigation_element li:nth-child(14){ margin-left: 18px}
+.navigation_element li:nth-child(15){ margin-left: 24px}
+.navigation_element li:nth-child(16){ margin-left: 24px}
+.navigation_element li:nth-child(17){ margin-left: 16px}
+.navigation_element li:nth-child(18){ margin-left: 29px}
+.navigation_element li:nth-child(19){ margin-left: 7px}
+.navigation_element li:nth-child(20){ margin-right: 28px}
+
+.navigation_second{
+    height: 82px;
+    background-color: #FFFFFF;
+}
+.navigation_frame_second{
+    height: 82px;
+}
+.navigation_element_second{
+    float: left;
+}
+.navigation_second li{
+    float: left;
+    line-height: 82px;
+}
+.casaRoyalpicture{
+    float: left;
+    margin-left:36px ;
+    margin-top: 21.1px;
+}
+.casaRoyal{
+    font-family: Helvetica;
+    font-size: 28px;
+    color: #4B4D4F;
+    text-align: left;
+}
+.navigation_second_line{
+    border: 1px solid #EFEFEF;
+    height: 82px;
+    width:1px;
+}
+.SUBMITLISTING_background_color{
+    position: absolute;
+    left:1536px;
+    top:54px;
+    height:88px;
+    width:199px;
+    background:#FF5E14;
+}
+.SUBMITLISTING{
+    position: absolute;
+    left:1567px;
+    top:55px;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+}
+.navigation_second li:nth-child(2){margin-left: 31px}
+.navigation_second li:nth-child(3){margin-left: 34px}
+.navigation_second li:nth-child(4){margin-left: 34px}
+.navigation_second li:nth-child(5){margin-left: 20px}
+.navigation_second li:nth-child(6){margin-left: 20px}
+.navigation_second li:nth-child(7){margin-left: 20px}
+.navigation_second li:nth-child(8){margin-left: 48px}
+.navigation_second li:nth-child(9){margin-left: 48px}
+.navigation_second li:nth-child(10){margin-left: 395px}
+.navigation_second li:nth-child(11){margin-left: 9px}
+.navigation_second li:nth-child(12){margin-left: 40px}
+.navigation_second li:nth-child(13){margin-left: 40px}
+
+/*中上部*/
+.middle_upper_picture{
+    position: absolute;
+    left:0px;
+    top:136px;
+}
+.LetUsGuideYouHome{
+    position: absolute;
+    top:293px;
+    left:227px;
+    font-family: Helvetica;
+    font-size: 42px;
+    color: #FFFFFF;
+    text-align: left;
+}
+.Findthehouseofyourdreams{
+    position: absolute;
+    top:355px;
+    left:227px;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: left;
+}
+.background{
+    position: absolute;
+    left:227px;
+    top:430px;
+    width:1280px;
+    height:119px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.choose_background{
+    position: absolute;
+    left:256px;
+    top:460px;
+    width:274px;
+    height: 60px;
+    background: #ECECEC;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.choose_Type{
+    position: absolute;
+    left:272px;
+    top:469px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #9B9B9B;
+    text-align: left;
+}
+.choose_Slecttype{
+    position: absolute;
+    left:272px;
+    top:491px;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #232628;
+    text-align: left;
+}
+.Select_Status{
+    position: absolute;
+    left:577px;
+    top:491px;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #232628;
+    text-align: left;
+}
+.Status{
+    position: absolute;
+    left:577px;
+    top:469px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #9B9B9B;
+    text-align: left;
+}
+.Status_background{
+    position: absolute;
+    left:561px;
+    top:460px;
+    width:188px;
+    height:60px;
+    background: #ECECEC;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.Search_background{
+    position: absolute;
+    left:778px;
+    top:460px;
+    width:456px;
+    height: 60px;
+    background: #ECECEC;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.Searh_for{
+    position: absolute;
+    left:799px;
+    top:479px;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #646464;
+    text-align: left;
+}
+.Find_font{
+    position: absolute;
+    left:1293px;
+    top:479px;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: black;
+    text-align: left;
+}
+.Find_background {
+    position: absolute;
+    left: 1264px;
+    top: 460px;
+    width:214px;
+    height: 60px;
+    background: #2A41E8;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+/*中部*/
+.middle_down_background{
+    margin-top: 665px;
+    width:1735px;
+    height:3122px;
+    background-color: #FAFAFA;
+}
+.CASAROYAL{
+    float: left;
+    margin-top: 120px;
+    margin-left:722px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: black;
+    letter-spacing: 2px;
+    text-align: left;
+}
+.Featured_Properties{
+    float: left;
+    margin-top: 13px;
+    margin-left: 603px;
+    font-family: Helvetica;
+    font-size: 56px;
+    color: #111111;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+/*p1*/
+.yacht{
+    float: left;
+    margin-top: 89px;
+    margin-left: 243px;
+}
+.HOUSE_p1{
+    position: absolute;
+    left:278px;
+    top:1136px;
+    font-family: Helvetica;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: left;
+}
+.P1_Background{
+    position: absolute;
+    left:243px;
+    top:1382px;
+    width:397px;
+    height:241px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.HOUSE_p1_Background{
+    position: absolute;
+    left:267px;
+    top:1128px;
+    width: 62px;
+    height:30px;
+    background: #2A42E8;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.FORSALE_p1{
+    position: absolute;
+    left: 344px;
+    top:1136px;
+    font-family: Helvetica;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: left;
+}
+.FORSALE_p1_Background{
+    position:absolute;
+    left:333px;
+    top:1128px;
+    width:78px;
+    height:30px;
+    background: #FF5E15;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.lightning_p1{
+    position: absolute;
+    left:592px;
+    top:1136px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #FFFFF0;
+    text-align: left;
+}
+.lightning_p1_Background{
+    position: absolute;
+    left:581px;
+    top:1128px;
+    width:34px;
+    height: 30px;
+    background: #2A42E8;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.price_p1{
+    position: absolute;
+    left:284px;
+    top:1331px;
+    font-family: Helvetica;
+    font-size: 15px;
+    color: #2A42E8;
+    text-align: left;
+}
+.price_p1_Background{
+    position: absolute;
+    left:268px;
+    top:1325px;
+    width:128px;
+    height:30px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.heart_p1{
+    position: absolute;
+    left:553px;
+    top:1334px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: left;
+}
+.heart_p1_Background{
+    position: absolute;
+    left:543px;
+    top:1325px;
+    width:34px;
+    height:30px;
+    background: #000000;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.equalsign_p1{
+    position: absolute;
+    left:591px;
+    top:1333px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: left;
+}
+.equalsign_p1_Background{
+    position: absolute;
+    left:581px;
+    top:1325px;
+    width:34px;
+    height:30px;
+    background: #000000;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.GPS{
+    position: absolute;
+    left:268px;
+    top:1404px;
+    width:17px;
+    height:14px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #FF5406;
+    text-align: left;
+}
+.Place{
+    position: absolute;
+    left:292px;
+    top:1404px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #848484;
+    text-align: left;
+}
+.Datail{
+    position: absolute;
+    left:268px;
+    top:1439px;
+    width:313px;
+    height:64px;
+    font-family: Helvetica;
+    font-size: 20px;
+    color: #1D1D1D;
+    text-align: left;
+    line-height: 32px;
+}
+.headpicture_P1_Position{
+    position: absolute;
+    left:268px;
+    top:1528px;
+}
+.Name_P1{
+    position: absolute;
+    left:290px;
+    top:1526px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #2A41E8;
+    text-align: left;
+}
+.Calendar_P1{
+    position: absolute;
+    left:503px;
+    top:1524px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #000000;
+    text-align: left;
+}
+.Data_P1{
+    position: absolute;
+    left:525px;
+    top:1523px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #848484;
+    text-align: left;
+}
+.PartLine{
+    position: absolute;
+    left:268px;
+    top:1565px;
+    height: 1px;
+    width:346px;
+    border: 1px solid #F4F4F4;
+}
+.Area_P1_Picture{
+    position: absolute;
+    left:272.1px;
+    top:1582px;
+}
+.Area_P1{
+    position: absolute;
+    left:289px;
+    top:1582px;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #111111;
+    text-align: left;
+}
+.Garage_P1{
+    position: absolute;
+    left:477px;
+    top:1582.3px;
+}
+.Garage_Number_P1{
+    position: absolute;
+    left: 498px;
+    top:1582px;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #111111;
+    text-align: left;
+}
+.Bathtub_P1{
+    position: absolute;
+    left:530.5px;
+    top:1582.5px;
+}
+.Bathtub_P1_Number{
+    position: absolute;
+    left:551px;
+    top:1582px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border-radius: 4px;
+}
+.Bed_P1{
+    position: absolute;
+    left:583px;
+    top:1585px;
+}
+.Bed_P1_Number{
+    position: absolute;
+    left:605px;
+    top:1582px;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #111111;
+    text-align: left;
+}
+
+
+.the{
+    float: left;
+    margin-top: 89px;
+    margin-left: 31px;
+}
+.the_bottom{
+    position: absolute;
+    left:670px;
+    top:1382px;
+}
+.swimming{
+    float: left;
+    margin-top: 89px;
+    margin-left: 31px;
+}
+.swimming_bottom
+{
+    position: absolute;
+    left:1098px;
+    top:1382px;
+}
+.singapore19{
+    float: left;
+    margin-left: 241px;
+    margin-top: 271px;
+}
+.singapore19_bottom{
+    position: absolute;
+    left:241px;
+    top:1931px;
+}
+.singapore11{
+    float: left;
+    margin-left: 31px;
+    margin-top: 271px;
+}
+.singapore11_bottom{
+    position: absolute;
+    left:669px;
+    top:1931px;
+}
+.land{
+    float: left;
+    margin-left: 31px;
+    margin-top: 271px;
+}
+.land_bottom{
+    position: absolute;
+    left:1098px;
+    top:1931px;
+}
+
+.ALLPROPERTIES_Background{
+    float: left;
+    width:268px;
+    height:58px;
+    margin-left: 734px;
+    margin-top: 297px;
+    background: #000000;
+    border-radius: 29px;
+}
+.ALL_PROPERTIES{
+    clear: both;
+    float: left;
+    margin-left:780px;
+    margin-top: -36px;
+    font-family: Helvetica;
+    font-size: 18px;
+    color:#FFFFFF;
+    letter-spacing: 2px;
+    text-align: left;
+}
+.CASAROYAL_REAL_ESTATE_AGENCY{
+    float: left;
+    margin-left: 722px;
+    margin-top:50px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #8C8C8C;
+    letter-spacing: 2px;
+    text-align: left;
+}
+.Properties_by_Area{
+    float: left;
+    margin-left: 618.5px;
+    margin-top: 12px;
+    font-family: Helvetica;
+    font-size: 56px;
+    color: #111111;
+    letter-spacing: 0;
+    text-align: center;
+}
+.Hungarian{
+    clear: both;
+    float: left;
+    margin-left: 241px;
+    margin-top: 89px;
+}
+.hotel{
+    position: absolute;
+    left: 671px;
+    top:2520px;
+}
+.caesars{
+ position: absolute;
+    left: 241px;
+    top:2921px;
+}
+.bora{
+    clear: both;
+    float: left;
+    margin-left: 1097px;
+    margin-top: 43px;
+}
+.LOSANGELES{
+   position: absolute;
+    left:272px;
+    top:2811px;
+    font-family: Helvetica;
+    font-size: 32px;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    text-align: left;
+}
+.LOSANGELES_picture{
+    position: absolute;
+    left:271px;
+    top:2852px;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: left;
+}
+.SanFrancisco{
+    position: absolute;
+    left:702px;
+    top: 2811px;
+    font-family: Helvetica;
+    font-size: 32px;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    text-align: left;
+}
+.SanFrancisco_picture{
+    position: absolute;
+    left:701px;
+    top:2852px;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: left;
+}
+.Seattle{
+    position: absolute;
+    left:272px;
+    top: 3200px;
+    font-family: Helvetica;
+    font-size: 32px;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    text-align: left;
+}
+.Seattle_picture{
+    position: absolute;
+    left:271px;
+    top:3242px;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: left;
+}
+.SanDiego{
+    position: absolute;
+    left:1128px;
+    top: 3200px;
+    font-family: Helvetica;
+    font-size: 32px;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    text-align: left;
+}
+.SanDiego_picture{
+    position: absolute;
+    left:1127px;
+    top:3242px;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: left;
+}

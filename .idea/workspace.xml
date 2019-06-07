@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ad87040-0106-4a62-bfdc-66b0f32ee533" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HTML/JDshoppingcart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/work4.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/work4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/work4.0/work4.0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/work4/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/work4/work4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont01/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont01/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont01/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont01/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont01/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont01/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont01/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont01/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/iconfont01/iconfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Group 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Group 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Rectangle 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/information.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/work3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/work3.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/work4.0/work4.0.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="715" column="21" selection-start-line="715" selection-start-column="21" selection-end-line="715" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/work4.0.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HGRCW</find>
+      <find>ComDatails</find>
+      <find>2</find>
+      <find>Group</find>
+      <find>Right7</find>
+      <find>Right8</find>
+      <find>公司联系人</find>
+      <find>absolute</find>
+      <find>.</find>
+      <find>assets</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/links/前端第三次作业.html" />
+        <option value="$PROJECT_DIR$/3.html" />
+        <option value="$PROJECT_DIR$/Thirdwor.html" />
+        <option value="$PROJECT_DIR$/assets/reset.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/work3.css" />
+        <option value="$PROJECT_DIR$/pp.css" />
+        <option value="$PROJECT_DIR$/work3.html" />
+        <option value="$PROJECT_DIR$/JDshoppingcart.html" />
+        <option value="$PROJECT_DIR$/css/work4/reset.css" />
+        <option value="$PROJECT_DIR$/work4.html" />
+        <option value="$PROJECT_DIR$/css/work4/work4.css" />
+        <option value="$PROJECT_DIR$/HTML/work4.html" />
+        <option value="$PROJECT_DIR$/css/work4.0/work4.0.css" />
+        <option value="$PROJECT_DIR$/HTML/work4.0.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="51" />
+    <option name="y" value="156" />
+    <option name="width" value="1045" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webcode" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webcode" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="work4.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webcode" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webcode" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="work4.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/iconfont/iconfont01" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webcode\iconfont\iconfont01" />
+      <recent name="E:\webcode\iconfont" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webcode\img\work4.0" />
+      <recent name="E:\webcode\HTML" />
+      <recent name="E:\webcode\HTML\work4" />
+      <recent name="E:\webcode\img\JDshoppingcart" />
+      <recent name="E:\webcode\img\work4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.work4.0.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webcode/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="work3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webcode/HTML/work3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="work4.0.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webcode/HTML/work4.0.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="work4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webcode/HTML/work4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.work4.0.html" />
+        <item itemvalue="JavaScript Debug.work4.html" />
+        <item itemvalue="JavaScript Debug.work3.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ad87040-0106-4a62-bfdc-66b0f32ee533" name="Default Changelist" comment="" />
+      <created>1559032116553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559032116553</updated>
+      <workItem from="1559032118453" duration="1783000" />
+      <workItem from="1559047832605" duration="3747000" />
+      <workItem from="1559055605904" duration="682000" />
+      <workItem from="1559106508553" duration="1714000" />
+      <workItem from="1559128146232" duration="8746000" />
+      <workItem from="1559142461398" duration="3579000" />
+      <workItem from="1559177334790" duration="599000" />
+      <workItem from="1559197780560" duration="627000" />
+      <workItem from="1559226736992" duration="3938000" />
+      <workItem from="1559231576449" duration="1945000" />
+      <workItem from="1559271862235" duration="9477000" />
+      <workItem from="1559290192605" duration="3652000" />
+      <workItem from="1559302480743" duration="9629000" />
+      <workItem from="1559318715301" duration="2747000" />
+      <workItem from="1559352942187" duration="10767000" />
+      <workItem from="1559375917500" duration="2248000" />
+      <workItem from="1559381429369" duration="241000" />
+      <workItem from="1559489200454" duration="497000" />
+      <workItem from="1559549067336" duration="171000" />
+      <workItem from="1559552180629" duration="64000" />
+      <workItem from="1559608723101" duration="817000" />
+      <workItem from="1559609883081" duration="1731000" />
+      <workItem from="1559635221072" duration="607000" />
+      <workItem from="1559637297900" duration="5599000" />
+      <workItem from="1559652667129" duration="2619000" />
+      <workItem from="1559657292788" duration="4839000" />
+      <workItem from="1559722871811" duration="2019000" />
+      <workItem from="1559726240252" duration="7351000" />
+      <workItem from="1559746541659" duration="1939000" />
+      <workItem from="1559779408696" duration="5566000" />
+      <workItem from="1559796302577" duration="3867000" />
+      <workItem from="1559801617008" duration="6917000" />
+      <workItem from="1559823374999" duration="3986000" />
+      <workItem from="1559870741421" duration="7790000" />
+      <workItem from="1559886271162" duration="18489000" />
+      <workItem from="1559916418005" duration="4568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="145557000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10773298" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10773298" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/3.html" />
+    <entry file="file://$PROJECT_DIR$/links/前端第三次作业.html" />
+    <entry file="file://$PROJECT_DIR$/Thirdwork.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="121" column="18" selection-start-line="121" selection-start-column="18" selection-end-line="121" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/preview/前端第三次作业.png" />
+    <entry file="file://$PROJECT_DIR$/pp.css" />
+    <entry file="file://$PROJECT_DIR$/assets/reset.css" />
+    <entry file="file://$PROJECT_DIR$/assets/work3.css" />
+    <entry file="file://$PROJECT_DIR$/assets/information.png" />
+    <entry file="file://$PROJECT_DIR$/assets/Group 5.png" />
+    <entry file="file://$PROJECT_DIR$/assets/Group 2.png" />
+    <entry file="file://$PROJECT_DIR$/assets/camera.png" />
+    <entry file="file://$PROJECT_DIR$/assets/Rectangle 5.png" />
+    <entry file="file://$PROJECT_DIR$/img/work3/camera.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work3/Group 2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work3/Group 5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work3/information.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work3/Rectangle 5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python资料/网页编程基础/CSS 样式/02CSS/源码/CSS总代码/04demo/icon/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4256">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python资料/网页编程基础/CSS 样式/02CSS/源码/19案例：制作购物车页面5/04demo/css/jd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1767" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/work3/work3.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QQ文件夹/吾能前端第四次作业/casaRoyal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2743">
+          <caret line="8" column="84" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#em#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#label#0;n#!!top" expanded="true" />
+            <element signature="e#55#59#0" expanded="true" />
+            <element signature="e#144#148#0" expanded="true" />
+            <element signature="e#55#59#0" expanded="true" />
+            <element signature="e#68#72#0" expanded="true" />
+            <element signature="e#55#59#0" expanded="true" />
+            <element signature="e#73#77#0" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#em#0;n#label#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python资料/网页编程基础/CSS 样式/02CSS/源码/CSS总代码/04demo/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/work4/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iconfont/demo_index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iconfont/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iconfont/demo_index1.html" />
+    <entry file="file://$PROJECT_DIR$/iconfont/iconfont1.css" />
+    <entry file="file://$PROJECT_DIR$/iconfont/iconfont01/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/JDshoppingcart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/work4/work4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="120" column="1" lean-forward="true" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/work4.0/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4/QQ图片20190606084751.png" />
+    <entry file="file://$PROJECT_DIR$/HTML/work4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/work3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="116" column="7" lean-forward="true" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/yacht-3480913.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iconfont/work4.0/font_lxs2lh1a6mm/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/the-palm-962785.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/caesars-palace-585098.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/1559806688876.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/Hotel.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/hungarian-parliament-77610.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/hotel-1831072.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/casaRoyal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/bora-bora-685303.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/landscape-1513890.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/work4.0/headpicture.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/work4.0/work4.0.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="715" column="21" selection-start-line="715" selection-start-column="21" selection-end-line="715" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/work4.0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
